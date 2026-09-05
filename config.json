@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "inputPath": "/ingest",
+  "outputURL": "http://127.0.0.1:11434/api/generate",
+  "logFile": "requests.log"
+}
